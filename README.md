@@ -118,4 +118,5 @@ Ce projet permet :
 * Nom : DAFFE Souleymane
 * Profil : data Scientist / Data Analyst 
 * Portfolio : https://souleymaneprojet.github.io/portfolio/
-* linkeding : linkedin.com/in/jules-souleymane
+* Link : linkedin.com/in/jules-souleymane
+
