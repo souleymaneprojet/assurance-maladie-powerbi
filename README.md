@@ -42,7 +42,6 @@ Les données incluent :
 
 ## 📸 Aperçu
 
-(Ajoute ici des captures d’écran)
 
 ## 🚀 Auteur
 
