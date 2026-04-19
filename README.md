@@ -116,5 +116,6 @@ Ce projet permet :
 ## 👤 Auteur
 
 * Nom : DAFFE Souleymane
-* Profil : data Scientist (Python) / Data Analyst (Power BI)
-* GitHub : [ton lien GitHub]
+* Profil : data Scientist / Data Analyst 
+* Portfolio : https://souleymaneprojet.github.io/portfolio/
+* linkeding : linkedin.com/in/jules-souleymane
