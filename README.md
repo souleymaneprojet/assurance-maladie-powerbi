@@ -92,16 +92,13 @@ Le dataset contient les informations suivantes :
 ---
 
 ## 📸 Aperçu du dashboard
+<img width="1208" height="554" alt="vue ensemble" src="https://github.com/user-attachments/assets/d1ed7b5b-ff65-4467-8344-40cecd28f50c" />
+<img width="1058" height="477" alt="per" src="https://github.com/user-attachments/assets/de8c2b45-c586-42a1-abaa-77bbc7f22695" />
+<img width="1049" height="482" alt="qua" src="https://github.com/user-attachments/assets/03ea846c-9054-4ba5-9d73-fea0f0a978cc" />
+<img width="1058" height="478" alt="tep" src="https://github.com/user-attachments/assets/c2eacf05-c250-4bad-af67-74f162c5158c" />
 
-<img width="1920" height="800" alt="donnée" src="https://github.com/user-attachments/assets/1434f28f-06a0-49b4-bebf-7db662fa4907" />
 
-<img width="1920" height="800" alt="vu d&#39;ensemble" src="https://github.com/user-attachments/assets/60201f7f-12e4-4649-a53d-01440f3091c1" />
 
-<img width="1920" height="800" alt="analyse temp" src="https://github.com/user-attachments/assets/d0a2da44-8c0d-4bc3-bf1a-5bc8bf5c9c84" />
-
-##<img width="1920" height="800" alt="Performance" src="https://github.com/user-attachments/assets/2b1826ba-f7a0-4881-8b91-534fb78a6d3e" />
-
-<img width="1920" height="800" alt="qualite service" src="https://github.com/user-attachments/assets/77aabef1-a719-4c61-8391-735bb493d481" />
 
 
 
