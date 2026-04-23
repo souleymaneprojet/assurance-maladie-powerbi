@@ -4,7 +4,7 @@
 
 Ce projet a pour objectif de construire un tableau de bord interactif permettant d’analyser la performance opérationnelle, la qualité de service et les coûts à partir de données de santé simulées.
 
----
+
 
 
 
@@ -19,7 +19,6 @@ Le dataset contient les informations suivantes :
 * Type d’admission (Emergency, Urgent, Elective)
 * Résultats médicaux (Normal, Abnormal, Inconclusive)
 
----
 
 ## Préparation des données (Power Query)
 
@@ -64,7 +63,7 @@ Ce projet permet :
 * d’analyser la performance des établissements
 * de suivre la qualité des services de santé
 
----
+
 
 ## 👤 Auteur
 
