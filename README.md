@@ -58,9 +58,6 @@ Le dataset contient les informations suivantes :
 
 
 
-
- 🚀 Résultats
-
 Ce projet permet :
 
 * d’identifier les facteurs impactant les coûts
