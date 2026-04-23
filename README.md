@@ -1,25 +1,14 @@
-# 📊 Dashboard Power BI - Analyse de la performance (Assurance Maladie)
+#Dashboard Power BI - Analyse de la performance (Assurance Maladie)
 
-## 🎯 Objectif du projet
+## Objectif du projet
 
 Ce projet a pour objectif de construire un tableau de bord interactif permettant d’analyser la performance opérationnelle, la qualité de service et les coûts à partir de données de santé simulées.
 
 ---
 
-## 📁 Structure du projet
 
-```
-assurance-maladie-powerbi/
-│
-├── data/        # Données sources (CSV)
-├── report/      # Fichier Power BI (.pbix)
-├── images/      # Captures du dashboard
-├── README.md
-```
 
----
-
-## 📊 Données utilisées
+##  Données utilisées
 
 Le dataset contient les informations suivantes :
 
@@ -32,7 +21,7 @@ Le dataset contient les informations suivantes :
 
 ---
 
-## 🔧 Préparation des données (Power Query)
+## Préparation des données (Power Query)
 
 * Nettoyage des noms (formatage)
 * Gestion des types de données
@@ -44,52 +33,16 @@ Le dataset contient les informations suivantes :
   * Segmentation par âge
   * Indicateurs (urgence, anomalie)
 
----
 
-## 📈 KPI développés
 
-* 💰 Coût total
-* 💸 Coût moyen par patient
-* ⏱ Durée moyenne de séjour
-* 🚨 Taux d’admissions urgentes
-* ⚠️ Taux d’anomalies (tests médicaux)
-* 📊 Nombre total de patients
-
----
-
-## 📊 Dashboard (Power BI)
-
-### 🟦 Vue d’ensemble
-
-* Indicateurs clés (KPI)
-* Répartition des patients
-* Coûts globaux
-
-### 🟩 Performance opérationnelle
-
-* Analyse des durées de séjour
-* Activité par hôpital et médecin
-
-### 🟨 Qualité des services
-
-* Analyse des résultats médicaux
-* Taux d’anomalie
-
-### 🟥 Analyse temporelle
-
-* Évolution des admissions
-* Tendances des coûts
-
----
-
-## 🛠 Outils utilisés
+##  Outils utilisés
 
 * Power BI
 * Power Query
 * DAX
 * Excel / CSV
 
----
+
 
 ## 📸 Aperçu du dashboard
 <img width="1046" height="408" alt="v" src="https://github.com/user-attachments/assets/c4cf5881-6a7d-40a7-8518-69081387e121" />
